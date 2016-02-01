@@ -4,7 +4,7 @@
 using namespace std;
 //It's new version
 //second version
-//chen branch
+//glen branch
 struct BstNode{
 	int data;
 	BstNode* left;
