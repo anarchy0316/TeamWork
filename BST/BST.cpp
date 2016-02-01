@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-
+//It's new version
 struct BstNode{
 	int data;
 	BstNode* left;
