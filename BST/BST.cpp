@@ -3,6 +3,7 @@
 #include <iostream>
 using namespace std;
 //It's new version
+//second version
 struct BstNode{
 	int data;
 	BstNode* left;
